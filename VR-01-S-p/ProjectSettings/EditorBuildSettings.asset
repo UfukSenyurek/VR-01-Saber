@@ -6,11 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MainMenu.unity
-    guid: 9e0fd813dc1177d46820ede8b8b42b18
-  - enabled: 1
-    path: Assets/Scenes/Balon.unity
-    guid: 50823d9f0a6794e4e935ff317a4b949c
+    path: Assets/_Scenes/GameScene.unity
+    guid: 6f6efb83f9bcd4d80a679820a2feea46
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: aac4c8008aa374f4e970228ae6356ec5, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: f10f9868d6e5a4e35ae3c8767f6c16df, type: 2}
